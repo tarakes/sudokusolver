@@ -1,0 +1,26 @@
+
+#Grid{
+ 
+  margin-top: 150px;
+margin-right: 100px;
+width: 300px;
+
+}
+#Grid input{
+    border: 2px solid red;
+    width: 75%;
+    border-collapse:collapse
+}
+.whole{
+    margin-left: 30%;
+    position: static;
+}
+#solution{
+    display:none;
+   
+}
+body{
+    font-weight: 5px;
+    background-color: darkcyan;
+}
+
